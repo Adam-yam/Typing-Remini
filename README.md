@@ -1,4 +1,5 @@
 <div align="center">
+<img width="256" height="256" alt="app" src="https://github.com/user-attachments/assets/d0c3eb05-1c83-44a9-a2eb-e58df5757a76" />
 
 # Typing Remini
 
