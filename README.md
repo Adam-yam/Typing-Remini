@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/32991356/README.md)
 <div align="center">
 
 # Typing Remini
@@ -145,8 +144,8 @@ Typing Remini는 타이핑 반응을 위해 Windows의 전역 키보드 입력 �
 - [Trapmine 탐지명 설명 글](https://trojan-killer.net/trapmine-suspicious-low-ml-score-guide/): `Suspicious.Low.ML.Score`라는 이름만으로 악성 또는 안전을 확정할 수 없으며, 파일 출처·해시·분석·업체 확인이 필요하다고 설명합니다.
 - [Hackerdose 설명 글](https://hackerdose.com/malware/suspicious-low-ml-score-false-positive/): 오탐 가능성을 다루지만 악성 가능성과 제거 안내도 포함합니다. 모든 동일 탐지가 오탐이라는 근거로 사용할 수 없습니다.
 - [2-spyware 설명 글](https://www.2-spyware.com/remove-malicious-moderate-ml-score.html): `Malicious.moderate.ml.score`의 오탐 가능성과 악성 가능성을 함께 설명합니다. 해당 글은 Trapmine의 탐지명을 다루며, 위 화면의 Elastic 탐지에 대한 직접 분석이 아닙니다.
-- [Reddit의 CrowdStrike 사례](https://www.reddit.com/r/crowdstrike/comments/12ckd08/detection_due_to_wingrayware_categorization/): TeamViewer 관련 파일의 `Win/grayware` 분류에 대해 사용자가 문의한 글입니다. Typing Remini에 대한 분석이나 업체의 공식 판정은 아닙니다.
-- [Technopat의 관련 질문](https://www.technopat.net/sosyal/konu/virustotalin-win-grayware_confidence_70-d-tespit-ettigi-dosya-virus-mudur.3669434/): `Win/grayware_confidence_70%`를 다루는 참고 링크입니다. 작성 시 본문을 확인하지 못해 결론의 근거에는 포함하지 않았습니다.
+- [Reddit의 CrowdStrike 사례](https://www.reddit.com/r/crowdstrike/comments/12ckd08/detection_due_to_wingrayware_categorization/): TeamViewer 관련 파일의 `Win/grayware` 분류에 대해 사용자가 문의한 글입니다.
+- [Technopat의 관련 질문](https://www.technopat.net/sosyal/konu/virustotalin-win-grayware_confidence_70-d-tespit-ettigi-dosya-virus-mudur.3669434/): `Win/grayware_confidence_70%`를 다루는 참고 링크입니다.
 
 ### 파일 확인과 제보
 
